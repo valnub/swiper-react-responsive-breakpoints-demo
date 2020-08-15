@@ -26,12 +26,12 @@ There are 2 things you have to do in order to get breakpoints in your project wo
 ```
 <Swiper
   breakpoints={{
-    // when window width is >= 480px
+    // when window width is >= 640px
     640: {
       width: 640,
       slidesPerView: 1,
     },
-    // when window width is >= 640px
+    // when window width is >= 768px
     768: {
       width: 768,
       slidesPerView: 2,
