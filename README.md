@@ -19,7 +19,7 @@ $ yarn start
 
 ## Code explanation
 
-There are 2 things you have to change in order to get breakpoints working
+There are 2 things you have to do in order to get breakpoints in your project working:
 
 ### 1. Add breakpoints to swiper element:
 
