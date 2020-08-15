@@ -25,12 +25,12 @@ export default () => {
       <div id="title">Resize window to see responsiveness</div>
       <Swiper
         breakpoints={{
-          // when window width is >= 480px
+          // when window width is >= 640px
           640: {
             width: 640,
             slidesPerView: 1,
           },
-          // when window width is >= 640px
+          // when window width is >= 768px
           768: {
             width: 768,
             slidesPerView: 2,
