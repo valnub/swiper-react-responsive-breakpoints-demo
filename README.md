@@ -2,7 +2,7 @@
 
 This demo shows how to set responsive breakpoints in [swiper-react](https://swiperjs.com/react/)
 
-<img width="640" height="584" border="0" src="./demo.gif">
+<img src="./demo.gif">
 
 ## Instructions
 
